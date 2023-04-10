@@ -1,0 +1,7 @@
+.container{
+    margin: 70px;
+    box-sizing:border-box;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 4px; 
+}

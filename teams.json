@@ -1,0 +1,267 @@
+{
+  "teams": [
+    {
+      "name": "Mumbai Indians",
+      "icon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Logooutline/MIoutline.png",
+      "playerCount": 25,
+      "topBatsman": "Rohit Sharma",
+      "topBowler": "Jasprit Bumrah",
+      "championshipsWon": 5,
+      "players": [
+        {
+          "fullName": "Rohit Sharma",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/6.png",
+          "team": "Mumbai Indians",
+          "price": "15CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Jason Behrendorff",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/4.png",
+          "team": "Mumbai Indians",
+          "price": "10CR",
+          "playingStatus": "Playing",
+          "role": "Bowler"
+        },
+        {
+          "fullName": "Jofra Archer",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/181.png",
+          "team": "Mumbai Indians",
+          "price": "10Cr",
+          "playingStatus": "Playing",
+          "role": "Bowler"
+        },
+        {
+          "fullName": "Suryakumar Yadav",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/174.png",
+          "team": "Mumbai Indians",
+          "price":"1CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Cameron Green",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/550.png",
+          "team": "Mumbai Indians",
+          "price": "18CR",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+        }
+      ]
+    },
+    {
+      "name": "Chennai Super Kings",
+      "icon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Logooutline/CSKoutline.png",
+      "playerCount": 25,
+      "topBatsman": "Suresh Raina",
+      "topBowler": "Dwayne Bravo",
+      "championshipsWon": 4,
+      "players": [
+        {
+          "fullName": "Devon Conway",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+          "team": "Chennai Super Kings",
+          "price": "8CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Deepak Chahar",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/91.png",
+          "team": "Chennai Super Kings",
+          "price": "S",
+          "playingStatus": "On-bench",
+          "role": "All-rounder"
+        },
+          {
+            "fullName": "Ms Dhoni",
+            "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/57.png",
+            "team": "Chennai Super Kings",
+            "price": "15CR",
+            "playingStatus": "Playing",
+            "role": "Wicket-Keeper"
+          },
+          {
+            "fullName": "Ruturaj Gaikwad",
+            "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/102.png",
+            "team": "Chennai Super Kings",
+            "price": "3CR",
+            "playingStatus": "Playing",
+            "role": "Batsman"
+          },
+          {
+            "fullName": "Ravindra Jadeja",
+            "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/46.png",
+            "team": "Chennai Super Kings",
+            "price": "10CR",
+            "playingStatus": "Playing",
+            "role": "Bowler"
+          }
+      ]
+    },
+    {
+      "name": "Royal Challengers Bangalore",
+      "icon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Logooutline/RCBoutline.png",
+      "playerCount": 25,
+      "topBatsman": "virat kohil",
+      "topBowler": "Mohammed Siraj",
+      "championshipsWon": 0,
+      "players": [
+        {
+          "fullName": "Faf du Plessis",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/94.png",
+          "team": "Royal Challengers Bangalore",
+          "price": "10CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "virat kohil",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2.png",
+          "team": "Royal Challengers Bangalore",
+          "price": "15CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Dinesh Karthik",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/13.png",
+          "team": "Royal Challengers Bangalore",
+          "price": "8Cr",
+          "playingStatus": "On-bench",
+          "role": "Wicket-Keeper"
+        },
+        {
+          "fullName": "Glenn Maxwell",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/28.png",
+          "team": "Royal Challengers Bangalore",
+          "price": "6CR",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+        },
+        {
+          "fullName": "Mohammed Siraj",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/63.png",
+          "team": "Royal Challengers Bangalore",
+          "price": "7Cr",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+
+        }
+      ]
+    },
+    {
+      "name": "Kolkata Knight Riders",
+      "icon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Logooutline/KKRoutline.png",
+      "playerCount": 25,
+      "topBatsman": "Shreyas Iyer",
+      "topBowler": "Andre Russell",
+      "championshipsWon": 0,
+      "players": [
+        {
+          "fullName": "Nitish Rana",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/148.png",
+          "team": "Kolkata Knight Riders",
+          "price": "10CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Shreyas Iyer",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/12.png",
+          "team": "Kolkata Knight Riders",
+          "price": "15CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Rahmanullah Gurbaz",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/641.png",
+          "team": "Kolkata Knight Riders",
+          "price": "8Cr",
+          "playingStatus": "On-bench",
+          "role": "Wicket-Keeper"
+        },
+        {
+          "fullName": "Andre Russell",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/141.png",
+          "team": "Kolkata Knight Riders",
+          "price": "6CR",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+        },
+        {
+          "fullName": "Sunil Narine",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/156.png",
+          "team": "Kolkata Knight Riders",
+          "price": "7Cr",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+
+        }
+      ]
+    },
+    {
+      "name": "Delhi Capitals",
+      "icon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/LogoOutline/DCoutline.png",
+      "playerCount": 25,
+      "topBatsman": "David Warner",
+      "topBowler": "Andre Russell",
+      "championshipsWon": 0,
+      "players": [
+        {
+          "fullName": "David Warner",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/214.png",
+          "team": "Delhi Capitals",
+          "price": "10CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Manish Pandey",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/16.png",
+          "team": "Delhi Capitals",
+          "price": "15CR",
+          "playingStatus": "Playing",
+          "role": "Batsman"
+        },
+        {
+          "fullName": "Rishabh Pant",
+          "photo": "https://assets.iplt20.com/ipl/IPLHeadshot2022/2972.png",
+          "team": "Delhi Capitals",
+          "price": "8Cr",
+          "playingStatus": "On-bench",
+          "role": "Wicket-Keeper"
+        },
+        {
+          "fullName": "Axar Patel",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/110.png",
+          "team": "Delhi Capitals",
+          "price": "6CR",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+        },
+        {
+          "fullName": "Mitchell Marsh",
+          "photo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/40.png",
+          "team": "Delhi Capitals",
+          "price": "7Cr",
+          "playingStatus": "Playing",
+          "role": "All-rounder"
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan Royals",
+      "icon": "",
+      "playerCount": 25,
+      "topBatsman": "Jos Buttler",
+      "topBowler": "R Ashwin",
+      "championshipsWon": 0,
+      "players": [
+
+      ]
+    }
+  ]
+}
